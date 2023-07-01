@@ -1,3 +1,14 @@
+/*
+INSERTION SORT
+
+INPUT:
+6
+1 4 7 0 3 2
+
+OUTPUT:
+0 1 2 3 4 7
+*/
+
 import java.io.*;
 import java.util.*;
 class HelloWorld {

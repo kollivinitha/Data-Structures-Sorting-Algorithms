@@ -1,1 +1,1 @@
-# Data-Structures-Sorting-Alogo
+# Data-Structures-Sorting-Algorithms
